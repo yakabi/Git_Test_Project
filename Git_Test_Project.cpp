@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "ローカルリポジトリで変更した場所\n";
 }
