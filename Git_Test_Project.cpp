@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "remote\n";
+    std::cout << "remoted\n";
 }
